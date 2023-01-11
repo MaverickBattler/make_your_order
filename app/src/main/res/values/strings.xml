@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Make Your Order</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pizza_image_order_screen">Pizza image for the collapsing toolbar at the order making screen</string>
+    <string name="margarita">Маргарита</string>
+    <string name="carbonara">Карбонара</string>
+    <string name="pepperoni">Пепперони</string>
+    <string name="extra_cheese">Дополнительный сыр</string>
+    <string name="extra_jalapeno">Добавить халапеньо</string>
+    <string name="button_to_make_an_order">Button to make an order</string>
+    <string name="choose_pizza_type">Выберите тип пиццы:</string>
+    <string name="additionally_you_can_add">По желанию, выберите дополнительно:</string>
+</resources>
